@@ -95,7 +95,6 @@
   <ItemGroup>
     <ClInclude Include="BufferCPU.h" />
     <ClInclude Include="BufferGPU.h" />
-    <ClInclude Include="CubeDataArrays.h" />
     <ClInclude Include="Demo.h" />
     <ClInclude Include="Helper.h" />
     <ClInclude Include="Main.h" />

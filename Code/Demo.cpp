@@ -40,7 +40,6 @@ that utilizes Vulkan, see more at http://cemu.info
 
 #include "Helper.h"
 #include "Main.h"
-#include "CubeDataArrays.h"
 
 // This boolean keeps track of how many times we have executed the
 // "prepare()" function. If we have never used the function before
